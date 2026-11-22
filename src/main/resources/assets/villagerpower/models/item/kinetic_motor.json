@@ -1,0 +1,268 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "minecraft:block/iron_block",
+    "casing": "minecraft:block/iron_block",
+    "strut": "minecraft:block/polished_andesite",
+    "axle": "create:block/axis",
+    "coil": "minecraft:block/copper_block"
+  },
+  "elements": [
+    {
+      "from": [
+        2,
+        3,
+        3
+      ],
+      "to": [
+        4,
+        13,
+        13
+      ],
+      "faces": {
+        "down": {
+          "texture": "#casing"
+        },
+        "up": {
+          "texture": "#casing"
+        },
+        "north": {
+          "texture": "#casing"
+        },
+        "south": {
+          "texture": "#casing"
+        },
+        "east": {
+          "texture": "#casing"
+        },
+        "west": {
+          "texture": "#casing"
+        }
+      }
+    },
+    {
+      "from": [
+        12,
+        3,
+        3
+      ],
+      "to": [
+        14,
+        13,
+        13
+      ],
+      "faces": {
+        "down": {
+          "texture": "#casing"
+        },
+        "up": {
+          "texture": "#casing"
+        },
+        "north": {
+          "texture": "#casing"
+        },
+        "south": {
+          "texture": "#casing"
+        },
+        "east": {
+          "texture": "#casing"
+        },
+        "west": {
+          "texture": "#casing"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        3,
+        3
+      ],
+      "to": [
+        12,
+        4,
+        4
+      ],
+      "faces": {
+        "down": {
+          "texture": "#strut"
+        },
+        "up": {
+          "texture": "#strut"
+        },
+        "north": {
+          "texture": "#strut"
+        },
+        "south": {
+          "texture": "#strut"
+        },
+        "east": {
+          "texture": "#strut"
+        },
+        "west": {
+          "texture": "#strut"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        3,
+        12
+      ],
+      "to": [
+        12,
+        4,
+        13
+      ],
+      "faces": {
+        "down": {
+          "texture": "#strut"
+        },
+        "up": {
+          "texture": "#strut"
+        },
+        "north": {
+          "texture": "#strut"
+        },
+        "south": {
+          "texture": "#strut"
+        },
+        "east": {
+          "texture": "#strut"
+        },
+        "west": {
+          "texture": "#strut"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        12,
+        3
+      ],
+      "to": [
+        12,
+        13,
+        4
+      ],
+      "faces": {
+        "down": {
+          "texture": "#strut"
+        },
+        "up": {
+          "texture": "#strut"
+        },
+        "north": {
+          "texture": "#strut"
+        },
+        "south": {
+          "texture": "#strut"
+        },
+        "east": {
+          "texture": "#strut"
+        },
+        "west": {
+          "texture": "#strut"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        12,
+        12
+      ],
+      "to": [
+        12,
+        13,
+        13
+      ],
+      "faces": {
+        "down": {
+          "texture": "#strut"
+        },
+        "up": {
+          "texture": "#strut"
+        },
+        "north": {
+          "texture": "#strut"
+        },
+        "south": {
+          "texture": "#strut"
+        },
+        "east": {
+          "texture": "#strut"
+        },
+        "west": {
+          "texture": "#strut"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        6.5,
+        6.5
+      ],
+      "to": [
+        16,
+        9.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#axle"
+        },
+        "up": {
+          "texture": "#axle"
+        },
+        "north": {
+          "texture": "#axle"
+        },
+        "south": {
+          "texture": "#axle"
+        },
+        "east": {
+          "texture": "#axle"
+        },
+        "west": {
+          "texture": "#axle"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        4.5,
+        4.5
+      ],
+      "to": [
+        12,
+        11.5,
+        11.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#coil"
+        },
+        "up": {
+          "texture": "#coil"
+        },
+        "north": {
+          "texture": "#coil"
+        },
+        "south": {
+          "texture": "#coil"
+        },
+        "east": {
+          "texture": "#coil"
+        },
+        "west": {
+          "texture": "#coil"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "villagerpower:item/villager_capsule_filled"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "villagerpower:block/hamster_wheel_x"
+    },
+    "axis=y": {
+      "model": "villagerpower:block/hamster_wheel_x"
+    },
+    "axis=z": {
+      "model": "villagerpower:block/hamster_wheel_z"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "itemGroup.villagerpower": "村人発電",
+  "block.villagerpower.hamster_wheel": "回し車",
+  "block.villagerpower.kinetic_motor": "発電モーター",
+  "item.villagerpower.villager_capsule": "村人カプセル",
+  "tooltip.villagerpower.capsule_empty": "村人を右クリックで封入",
+  "tooltip.villagerpower.capsule_filled": "村人入り。回し車に右クリックで投入、他のブロックに右クリックで解放",
+  "tooltip.villagerpower.motor_output": "発電量: %s FE/t"
+}

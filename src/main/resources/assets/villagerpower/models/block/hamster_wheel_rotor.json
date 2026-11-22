@@ -1,0 +1,482 @@
+{
+  "textures": {
+    "particle": "minecraft:block/oak_planks",
+    "base": "minecraft:block/dark_oak_planks",
+    "metal": "minecraft:block/iron_block",
+    "axle": "create:block/axis",
+    "spoke": "minecraft:block/spruce_planks",
+    "slat": "minecraft:block/oak_planks"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        6.5,
+        6.5
+      ],
+      "to": [
+        16,
+        9.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#axle"
+        },
+        "up": {
+          "texture": "#axle"
+        },
+        "north": {
+          "texture": "#axle"
+        },
+        "south": {
+          "texture": "#axle"
+        },
+        "east": {
+          "texture": "#axle"
+        },
+        "west": {
+          "texture": "#axle"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        7.5,
+        2
+      ],
+      "to": [
+        3,
+        8.5,
+        14
+      ],
+      "faces": {
+        "down": {
+          "texture": "#spoke"
+        },
+        "up": {
+          "texture": "#spoke"
+        },
+        "north": {
+          "texture": "#spoke"
+        },
+        "south": {
+          "texture": "#spoke"
+        },
+        "east": {
+          "texture": "#spoke"
+        },
+        "west": {
+          "texture": "#spoke"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        2,
+        7.5
+      ],
+      "to": [
+        3,
+        14,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#spoke"
+        },
+        "up": {
+          "texture": "#spoke"
+        },
+        "north": {
+          "texture": "#spoke"
+        },
+        "south": {
+          "texture": "#spoke"
+        },
+        "east": {
+          "texture": "#spoke"
+        },
+        "west": {
+          "texture": "#spoke"
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        7.5,
+        2
+      ],
+      "to": [
+        14,
+        8.5,
+        14
+      ],
+      "faces": {
+        "down": {
+          "texture": "#spoke"
+        },
+        "up": {
+          "texture": "#spoke"
+        },
+        "north": {
+          "texture": "#spoke"
+        },
+        "south": {
+          "texture": "#spoke"
+        },
+        "east": {
+          "texture": "#spoke"
+        },
+        "west": {
+          "texture": "#spoke"
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        2,
+        7.5
+      ],
+      "to": [
+        14,
+        14,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#spoke"
+        },
+        "up": {
+          "texture": "#spoke"
+        },
+        "north": {
+          "texture": "#spoke"
+        },
+        "south": {
+          "texture": "#spoke"
+        },
+        "east": {
+          "texture": "#spoke"
+        },
+        "west": {
+          "texture": "#spoke"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        13.5,
+        6.8
+      ],
+      "to": [
+        13,
+        14.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        1.5,
+        6.8
+      ],
+      "to": [
+        13,
+        2.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        13.5,
+        6.8
+      ],
+      "to": [
+        13,
+        14.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": 45,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        1.5,
+        6.8
+      ],
+      "to": [
+        13,
+        2.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": 45,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        13.5,
+        6.8
+      ],
+      "to": [
+        13,
+        14.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": -45,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        1.5,
+        6.8
+      ],
+      "to": [
+        13,
+        2.5,
+        9.2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      },
+      "rotation": {
+        "angle": -45,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      }
+    },
+    {
+      "from": [
+        3,
+        6.8,
+        13.5
+      ],
+      "to": [
+        13,
+        9.2,
+        14.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        6.8,
+        1.5
+      ],
+      "to": [
+        13,
+        9.2,
+        2.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#slat"
+        },
+        "up": {
+          "texture": "#slat"
+        },
+        "north": {
+          "texture": "#slat"
+        },
+        "south": {
+          "texture": "#slat"
+        },
+        "east": {
+          "texture": "#slat"
+        },
+        "west": {
+          "texture": "#slat"
+        }
+      }
+    }
+  ]
+}

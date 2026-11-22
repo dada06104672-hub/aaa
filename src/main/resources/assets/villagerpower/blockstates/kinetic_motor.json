@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "villagerpower:block/kinetic_motor_x"
+    },
+    "axis=y": {
+      "model": "villagerpower:block/kinetic_motor_y"
+    },
+    "axis=z": {
+      "model": "villagerpower:block/kinetic_motor_z"
+    }
+  }
+}

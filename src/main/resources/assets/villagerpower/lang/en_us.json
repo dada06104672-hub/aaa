@@ -1,0 +1,9 @@
+{
+  "itemGroup.villagerpower": "Villager Power",
+  "block.villagerpower.hamster_wheel": "Hamster Wheel",
+  "block.villagerpower.kinetic_motor": "Kinetic Motor",
+  "item.villagerpower.villager_capsule": "Villager Capsule",
+  "tooltip.villagerpower.capsule_empty": "Right-click a villager to capture it",
+  "tooltip.villagerpower.capsule_filled": "Contains a villager. Right-click a Hamster Wheel to insert, or another block to release",
+  "tooltip.villagerpower.motor_output": "Output: %s FE/t"
+}

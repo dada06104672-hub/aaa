@@ -1,0 +1,75 @@
+{
+  "textures": {
+    "particle": "minecraft:block/iron_block",
+    "casing": "minecraft:block/iron_block",
+    "strut": "minecraft:block/polished_andesite",
+    "axle": "create:block/axis",
+    "coil": "minecraft:block/copper_block"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        6.5,
+        6.5
+      ],
+      "to": [
+        16,
+        9.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#axle"
+        },
+        "up": {
+          "texture": "#axle"
+        },
+        "north": {
+          "texture": "#axle"
+        },
+        "south": {
+          "texture": "#axle"
+        },
+        "east": {
+          "texture": "#axle"
+        },
+        "west": {
+          "texture": "#axle"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        4.5,
+        4.5
+      ],
+      "to": [
+        12,
+        11.5,
+        11.5
+      ],
+      "faces": {
+        "down": {
+          "texture": "#coil"
+        },
+        "up": {
+          "texture": "#coil"
+        },
+        "north": {
+          "texture": "#coil"
+        },
+        "south": {
+          "texture": "#coil"
+        },
+        "east": {
+          "texture": "#coil"
+        },
+        "west": {
+          "texture": "#coil"
+        }
+      }
+    }
+  ]
+}
